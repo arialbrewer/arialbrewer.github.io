@@ -1,0 +1,34 @@
+---
+title: "Arial Brewer"
+image: "arial.jpg"
+links:
+  - label: Google Scholar
+    url: "https://scholar.google.com/citations?hl=en&user=MTBjm9sAAAAJ&view_op=list_works&authuser=1&sortby=pubdate"
+  - label: GitHub
+    url: "https://github.com/arialbrewer"
+  - label: Email
+    url: "arialb@uw.edu"
+output:
+  postcards::trestles
+---
+ 
+## Bio
+
+Arial Brewer is a Research Scientist with NOAA and UW and a graduate student at the School of Aquatic and Fishery Sciences studying the acoustic ecology of Cook Inlet beluga whales.
+
+## Education
+
+**University of Washington** | Seattle, WA
+
+M.S. Aquatic and Fishery Sciences | In progress
+
+
+**University of California, Santa Cruz** | Santa Cruz, CA
+
+B.S. Marine Biology | 2010
+
+## Experience
+
+**Google Brain** | Principal Investigator | January 2018 - Present
+
+**Netflix** | Research Scientist | June 2014 - December 2017
